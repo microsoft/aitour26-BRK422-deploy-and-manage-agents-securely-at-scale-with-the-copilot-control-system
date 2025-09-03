@@ -1,53 +1,4 @@
-# Welcome AI Tour 26 Creators!
 
-Thanks for creating content for AI Tour 26.
-
-One of our opportunities from FY25 was make a more consistent experience for attendees.  Following this template, and keeping users in these repos, will help us achieve this opportunity for this year's AI Tour.
-
-Steps:
-
-## Docs using MKDocs
-If you are interested in using mkdocs, this repo is configured for it.
-1. update the `mkdocs.yml` file to reference your session. Look particularly for the `site_name`, `site_author`, and `repo_name` tags.
-1. Subfolders in the docs folder will show up as tabs in the navigation bar.
-
-If you want to disable mkdocs:
-1. Delete the mkdocs.yml file. 
-1. Delete the references to it in [docs/README.md](./docs/README.md)
-1. Delete the docs/assets folder and its contents.
-
-## Other folders
-Note the data, docs, src, lab, session-delivery-resources folders. 
-1. Remove folders that you dont need.
-1. Please keep and use the folders that you do need.  e.g. put your data in the data folder, and put your docs in the docs folder.
-
-## Update Readme
-1. Fill out the content below in this file, below the banner graphic.
-
-## Update Repo Info
-
-1. Note the data, docs, src, lab, session-delivery-resources folders. 
-
-    1. Remove folders that you dont need, but please keep and use the folders that you do need.  e.g. put your data in the data folder, and put your docs in the docs folder.
-
-1. Fill out the content below in this file, below the banner graphic.
-
-1. Update the Repo Info for this repo 
-    1. Click the gear icon⚙️ in the upper right.
-    1. Set a good description of this repo.
-    1. Add the technologies that you're using in this session.  E.g. the same items that are in the Technologies Used section below.
-
-1. Please embed links to Learn with your campaign codes!
-
-## Slides and Recordings
-1. Do not store slides or recordings in this repo
-1. We will implement a similar solution to last year's with azure blob storage. When the time comes, link to these from the session-delivery-resources folder readme.
-
-## Questions?
-Send them to Mike Kinsman, Erik Weis, and cc Anthony Bartolo, or surface through your content lead.
-
-## Last step
-Delete this line and everything above it!
 
 
 <p align="center">
@@ -56,22 +7,24 @@ Delete this line and everything above it!
 
 # [Microsoft AI Tour 2026](https://aitour.microsoft.com)
 
-## 🔥BRKXXX: Build and deploy agents securely at scale with the Copilot Control System
+## 🔥BRK422: Build and deploy agents securely at scale with the Copilot Control System
 
 If you will be delivering this session, check the [session-delivery-sources](./session-delivery-resources/) folder for slides, scripts, and other resources.
 
 ### Session Description
 
-*Add Session Description*
+Learn how to deploy and manage AI agents securely at scale using the Copilot Control System (CCS). This session explores how organizations can prevent agent sprawl, protect sensitive data, and measure ROI across their agent ecosystem. You’ll discover how Microsoft Purview, SharePoint Advanced Management, and Insider Risk Management help enforce governance, while PPAC and MAC provide visibility into agent adoption, productivity impact, and cost efficiency. Whether you're a platform admin or technical decision maker, this session will equip you with the tools to build responsibly and scale confidently.
 
 
 ### 🧠 Learning Outcomes
 
 By the end of this session, learners will be able to:
 
--  
--
--
+- Understand how the Copilot Control System (CCS) helps organizations deploy and manage AI agents securely at scale.
+- Identify governance tools such as Microsoft Purview, SharePoint Advanced Management, and Insider Risk Management that protect sensitive data across agent workflows.
+- Apply strategies to prevent agent sprawl and manage licensing, cost, and access effectively.
+- Use PPAC and MAC to measure agent adoption, productivity impact, and cost efficiency.
+- Make informed decisions about agent lifecycle management based on security, compliance, and ROI metrics.
 
 ### 💻 Technologies Used
 
@@ -106,9 +59,9 @@ By the end of this session, learners will be able to:
 <table>
 <tr>
     <td align="center"><a href="http://github.com/mikekinsman">
-        <img src="https://github.com/mikekinsman.png" width="100px;" alt="INSERT NAME HERE"
+        <img src="https://avatars.githubusercontent.com/u/20760857?v=4" width="100px;" alt="INSERT NAME HERE"
 "/><br />
-        <sub><b> INSERT NAME HERE
+        <sub><b> April Dunnam
 </b></sub></a><br />
             <a href="https://github.com/mikekinsman" title="talk">📢</a> 
     </td>
