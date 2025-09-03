@@ -62,15 +62,7 @@ By the end of this session, learners will be able to:
         <img src="https://avatars.githubusercontent.com/u/20760857?v=4" width="100px;" alt="INSERT NAME HERE"
 "/><br />
         <sub><b> April Dunnam
-</b></sub></a><br />
-            <a href="https://github.com/mikekinsman" title="talk">📢</a> 
-    </td>
-    <td align="center"><a href="http://github.com/mikekinsman">
-        <img src="https://github.com/mikekinsman.png" width="100px;" alt="INSERT NAME HERE
-"/><br />
-        <sub><b>INSERT NAME HERE
-</b></sub></a><br />
-            <a href="https://github.com/mikekinsman" title="talk">📢</a> 
+
     </td>
 </tr></table>
 
