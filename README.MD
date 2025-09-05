@@ -26,11 +26,6 @@ By the end of this session, learners will be able to:
 - Use PPAC and MAC to measure agent adoption, productivity impact, and cost efficiency.
 - Make informed decisions about agent lifecycle management based on security, compliance, and ROI metrics.
 
-### 💻 Technologies Used
-
-1.
-1.
-1.
 
 ### 🔗 Session Resources
 | Resources          | Links                             | Description        |
