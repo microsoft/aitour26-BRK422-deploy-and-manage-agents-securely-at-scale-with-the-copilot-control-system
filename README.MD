@@ -15,7 +15,6 @@ If you will be delivering this session, check the [session-delivery-sources](./s
 
 Learn how to deploy and manage AI agents securely at scale using the Copilot Control System (CCS). This session explores how organizations can prevent agent sprawl, protect sensitive data, and measure ROI across their agent ecosystem. You’ll discover how Microsoft Purview, SharePoint Advanced Management, and Insider Risk Management help enforce governance, while PPAC and MAC provide visibility into agent adoption, productivity impact, and cost efficiency. Whether you're a platform admin or technical decision maker, this session will equip you with the tools to build responsibly and scale confidently.
 
-
 ### 🧠 Learning Outcomes
 
 By the end of this session, learners will be able to:
@@ -26,11 +25,13 @@ By the end of this session, learners will be able to:
 - Use PPAC and MAC to measure agent adoption, productivity impact, and cost efficiency.
 - Make informed decisions about agent lifecycle management based on security, compliance, and ROI metrics.
 
-
 ### 🔗 Session Resources
-| Resources          | Links                             | Description        |
-|:-------------------|:----------------------------------|:-------------------|
-| Additional Resources for this session | [https://learn.microsoft.com](https://learn.microsoft.com?ocid=AITour26_resourcecenter_cnl) | Links specific to this session |
+
+| Resource | Path |
+|---|---:|
+| Presenter Guide (full) | [session-delivery-resources/readme.md](session-delivery-resources/readme.md)
+| Slides | [BRK422_Presentation.pptx](https://assetsmanagement952e.blob.core.windows.net/assets/BRK422%20Deploy%20and%20manage%20agents%20securely%20at%20scale%20with%20the%20Copilot%20Control%20System/BRK422_Presentation_V1.0.pptx) |
+| TTT Video | [BRK422-Full-Session.mp4](https://assetsmanagement952e.blob.core.windows.net/assets/BRK422%20Deploy%20and%20manage%20agents%20securely%20at%20scale%20with%20the%20Copilot%20Control%20System/BRK422_Delivery_V1.0.mp4) |
 
 ### 📚 Continued Learning Resources
 | Resources          | Links                             | Description        |
@@ -38,10 +39,6 @@ By the end of this session, learners will be able to:
 | AI Tour 2026 Resource Center | [https://aka.ms/AITour26-Resource-Center](https://aka.ms/AITour26-Resource-Center?ocid=AITour26_resourcecenter_cnl) | Links to all repos for AI Tour 26 Sessions |
 | Azure AI Foundry Community Discord | [![Microsoft Azure AI Foundry Discord](https://dcbadge.limes.pink/api/server/ByRwuEEgH4)](https://discord.com/invite/ByRwuEEgH4)| Connect with the Azure AI Foundry Community! |
 | Learn at AI Tour | [https://aka.ms/LearnAtAITour](https://aka.ms/LearnAtAITour?ocid=AITour26_resourcecenter_cnl) | Continue learning on Microsoft Learn |
-
-### 🌐 Multi-Language Support
-
-*languages will go here when its time to localize*
 
 ## Content Owners
 
@@ -57,9 +54,7 @@ By the end of this session, learners will be able to:
   
 </tr></table>
 
-## 
-
-## Responsible AI 
+## Responsible AI
 
 Microsoft is committed to helping our customers use our AI products responsibly, sharing our learnings, and building trust-based partnerships through tools like Transparency Notes and Impact Assessments. Many of these resources can be found at [https://aka.ms/RAI](https://aka.ms/RAI).
 Microsoft’s approach to responsible AI is grounded in our AI principles of fairness, reliability and safety, privacy and security, inclusiveness, transparency, and accountability.
