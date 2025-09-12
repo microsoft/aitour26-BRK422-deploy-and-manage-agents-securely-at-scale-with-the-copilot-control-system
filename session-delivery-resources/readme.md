@@ -13,7 +13,7 @@ Prior to delivering the workshop please:
 | Resources          | Links                            | Description |
 |-------------------|----------------------------------|-------------------|
 | Slide Deck      |  [Presentation](https://assetsmanagement952e.blob.core.windows.net/assets/BRK422%20Deploy%20and%20manage%20agents%20securely%20at%20scale%20with%20the%20Copilot%20Control%20System/BRK422_Presentation_V1.0.pptx)  | Presentation slides for this session with presenter notes and embedded demo video |
-| Session Delivery Video     |  [Video](https://assetsmanagement952e.blob.core.windows.net/assets/BRK422%20Deploy%20and%20manage%20agents%20securely%20at%20scale%20with%20the%20Copilot%20Control%20System/BRK422_Delivery_V1.0.mp4) | Video recording of the full session delivery |
+| Session Delivery Video     |  [Video](https://youtu.be/AWMAaRC3H0I) | Video recording of the full session delivery |
 
 ## 🚀Get Started
 
