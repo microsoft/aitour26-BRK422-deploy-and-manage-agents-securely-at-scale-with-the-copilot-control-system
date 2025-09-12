@@ -31,7 +31,7 @@ By the end of this session, learners will be able to:
 |---|---:|
 | Presenter Guide (full) | [session-delivery-resources/readme.md](session-delivery-resources/readme.md)
 | Slides | [BRK422_Presentation.pptx](https://assetsmanagement952e.blob.core.windows.net/assets/BRK422%20Deploy%20and%20manage%20agents%20securely%20at%20scale%20with%20the%20Copilot%20Control%20System/BRK422_Presentation_V1.0.pptx) |
-| TTT Video | [BRK422-Full-Session.mp4](https://assetsmanagement952e.blob.core.windows.net/assets/BRK422%20Deploy%20and%20manage%20agents%20securely%20at%20scale%20with%20the%20Copilot%20Control%20System/BRK422_Delivery_V1.0.mp4) |
+| Session Recording | https://youtu.be/AWMAaRC3H0I |
 
 ### 📚 Continued Learning Resources
 | Resources          | Links                             | Description        |
