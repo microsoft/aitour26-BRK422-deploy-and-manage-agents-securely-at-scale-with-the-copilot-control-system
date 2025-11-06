@@ -30,7 +30,7 @@ By the end of this session, learners will be able to:
 | Resource | Path |
 |---|---:|
 | Presenter Guide (full) | [session-delivery-resources/readme.md](session-delivery-resources/readme.md)
-| Slides | [BRK422_Presentation.pptx](https://assetsmanagement952e.blob.core.windows.net/assets/BRK422%20Deploy%20and%20manage%20agents%20securely%20at%20scale%20with%20the%20Copilot%20Control%20System/BRK422_Presentation_V1.0.pptx) |
+| Slides | [BRK422_Presentation.pptx](http://aka.ms/AAxxj54) |
 | Session Recording | https://youtu.be/AWMAaRC3H0I |
 
 ### 📚 Continued Learning Resources
@@ -49,7 +49,7 @@ Additional languages coming soon.
 <table>
 <tr>
     <td align="center"><a href="https://github.com/aprildunnam">
-        <img src="https://avatars.githubusercontent.com/u/20760857?v=4" width="100px;" alt="April DunnamE"
+        <img src="https://avatars.githubusercontent.com/u/20760857?v=4" width="100px;" alt="April Dunnam"
 "/><br />
         <sub><b> April Dunnam
 </b></sub></a><br />
