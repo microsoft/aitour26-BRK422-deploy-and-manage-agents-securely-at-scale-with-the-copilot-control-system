@@ -30,7 +30,7 @@ By the end of this session, learners will be able to:
 | Resource | Path |
 |---|---:|
 | Presenter Guide (full) | [session-delivery-resources/readme.md](session-delivery-resources/readme.md)
-| Slides | [BRK422_Presentation.pptx](http://aka.ms/AAxxj54) |
+| Slides | [BRK422_Presentation.pptx](https://aka.ms/AAxxj54) |
 | Session Recording | https://youtu.be/AWMAaRC3H0I |
 
 ### 📚 Continued Learning Resources

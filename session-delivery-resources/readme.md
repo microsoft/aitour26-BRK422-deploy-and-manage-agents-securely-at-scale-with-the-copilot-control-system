@@ -12,7 +12,7 @@ Prior to delivering the workshop please:
 
 | Resources          | Links                            | Description |
 |-------------------|----------------------------------|-------------------|
-| Slide Deck      |  [Presentation](http://aka.ms/AAxxj54)  | Presentation slides for this session with presenter notes and embedded demo video |
+| Slide Deck      |  [Presentation](https://aka.ms/AAxxj54)  | Presentation slides for this session with presenter notes and embedded demo video |
 | Session Delivery Video     |  [Video](https://youtu.be/AWMAaRC3H0I) | Video recording of the full session delivery |
 
 ## 🚀Get Started
