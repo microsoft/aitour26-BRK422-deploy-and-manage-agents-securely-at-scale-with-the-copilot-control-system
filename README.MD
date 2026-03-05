@@ -7,13 +7,13 @@
 
 # [Microsoft AI Tour 2026](https://aitour.microsoft.com)
 
-## 🔥BRK422: Build and deploy agents securely at scale with the Copilot Control System
+## 🔥BRK422: IT Excellence in the AI era: Copilot and agents
 
 If you will be delivering this session, check the [session-delivery-sources](./session-delivery-resources/) folder for slides, scripts, and other resources.
 
 ### Session Description
 
-Learn how to deploy and manage AI agents securely at scale using the Copilot Control System (CCS). This session explores how organizations can prevent agent sprawl, protect sensitive data, and measure ROI across their agent ecosystem. You’ll discover how Microsoft Purview, SharePoint Advanced Management, and Insider Risk Management help enforce governance, while PPAC and MAC provide visibility into agent adoption, productivity impact, and cost efficiency. Whether you're a platform admin or technical decision maker, this session will equip you with the tools to build responsibly and scale confidently.
+IT teams are the heroes behind successful Microsoft 365 Copilot and agent adoption. Learn how Copilot Control System and Agent 365 enable secure, scalable AI via key management control surfaces like the Microsoft 365 and Power Platform admin centers.
 
 ### 🧠 Learning Outcomes
 
